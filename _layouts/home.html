@@ -9,6 +9,13 @@ layout: default
 
 {% assign posts = '' | split: '' %}
 
+<!-- Get About Contex -->
+
+<article class="px-1">
+  {% capture about %}{% include about.md %}{% endcapture %}
+  {{ about | markdownify }}
+</article>
+
 <!-- Get pinned posts -->
 
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
