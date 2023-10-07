@@ -76,17 +76,6 @@ Moon
 > An example showing the `danger` type prompt.
 {: .prompt-danger }
 
-## Tables
-
-| Company                      | Contact          | Country |
-|:-----------------------------|:-----------------|--------:|
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    | UK      |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
-
-## Links
-
-<http://127.0.0.1:4000>
 
 ## Inline code
 
@@ -100,23 +89,6 @@ This is an example of `Inline Code`.
 This is a common code snippet, without syntax highlight and line number.
 ```
 
-### Specific Language
-
-```bash
-if [ $? -ne 0 ]; then
-  echo "The command was not successful.";
-  #do the needful / exit
-fi;
-```
-
-### Specific filename
-
-```sass
-@import
-  "colors/light-typography",
-  "colors/dark-typography";
-```
-{: file='_sass/jekyll-theme-chirpy.scss'}
 
 ## Mathematics
 
@@ -138,6 +110,3 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
   cherry :active, c, after b a, 1d
 ```
 
-## Video
-
-{% include embed/youtube.html id='Balreaj8Yqs' %}
