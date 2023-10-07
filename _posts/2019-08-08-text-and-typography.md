@@ -88,10 +88,6 @@ Moon
 
 <http://127.0.0.1:4000>
 
-## Footnote
-
-Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
-
 ## Inline code
 
 This is an example of `Inline Code`.
@@ -149,8 +145,3 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 ## Video
 
 {% include embed/youtube.html id='Balreaj8Yqs' %}
-
-## Reverse Footnote
-
-[^footnote]: The footnote source
-[^fn-nth-2]: The 2nd footnote source
