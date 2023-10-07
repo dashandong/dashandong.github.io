@@ -92,10 +92,6 @@ Moon
 
 This is an example of `Inline Code`.
 
-## Filepath
-
-Here is the `/path/to/the/file.extend`{: .filepath}.
-
 ## Code blocks
 
 ### Common
