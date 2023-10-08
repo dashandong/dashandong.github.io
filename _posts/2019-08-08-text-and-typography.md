@@ -1,6 +1,6 @@
 ---
 title: Text and Typography
-author: cotes
+author: Dashan Dong
 date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
@@ -8,22 +8,6 @@ pin: true
 math: true
 mermaid: true
 ---
-
-This post is to show Markdown syntax rendering on, you can also use it as an example of writing. Now, let's start looking at text and typography.
-
-## Headings
-
-# H1 - heading
-{: .mt-4 .mb-0 }
-
-## H2 - heading
-{: data-toc-skip='' .mt-4 .mb-0 }
-
-### H3 - heading
-{: data-toc-skip='' .mt-4 .mb-0 }
-
-#### H4 - heading
-{: data-toc-skip='' .mt-4 }
 
 ## Paragraph
 
