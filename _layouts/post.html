@@ -11,6 +11,7 @@ tail_includes:
 
 {% include lang.html %}
 
+{% if page.collection != 'tabs' %}
 <header>
   <h1 data-toc-skip>{{ page.title }}</h1>
 
@@ -78,6 +79,7 @@ tail_includes:
   </div>
   <!-- .post-meta -->
 </header>
+{% endif %}
 
 <div class="content">
   {{ content }}
