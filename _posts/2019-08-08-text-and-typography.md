@@ -90,10 +90,6 @@ Click the hook will locate the footnote[^footnote], and here is another footnote
 
 This is an example of `Inline Code`.
 
-## Filepath
-
-Here is the `/path/to/the/file.extend`{: .filepath}.
-
 ## Code blocks
 
 ### Common
