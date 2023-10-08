@@ -122,10 +122,10 @@ CN Patent: ZL 202010069141.4
 1. __Clinical Medicine Plus X - Young Scholars Project__ [2022] [Co-PI]
     * Exploring the role of lipid droplets in egg asymmetric division based on label-free imaging
     * From _Peking University, the Fundamental Research Funds for the Central Universities_
-1. __Young Scientist Fund (12004013)__ [2021-2023]
+1. __Young Scientist Fund (12004013)__ [2021-2023] [PI]
     * Reflective optical diffraction tomography for live cell imaging and its application
     * From _National Natural Science Foundation of China_
-1. __No.68 General Fund (2020M680220)__
+1. __No.68 General Fund (2020M680220)__ [PI]
     * Super-resolution fluorescence-assisted optical diffraction tomography and its application
     * From _China Postdoctoral Science Foundation_
 
