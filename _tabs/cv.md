@@ -7,26 +7,26 @@ title: Dashan Dong
 
 ## Current
 
-
-## Education
-
-Ph.D. in Optics
-: _Peking University_ &emsp; 2014-2019
-
-B.S. in Applied Physics
-: _Nankai University_ &emsp; 2010-2014
+Postdoctoral Associate
+: _Boston University_ &emsp; 2023-now
 
 
 ## Academic Experience
-
-Postdoctoral Associate
-: _Boston University_ &emsp; 2023-now
 
 Associate Research Fellow
 : _Peking University_ &emsp; 2021-2023
 
 Postdoctoral Fellow
 : _Peking University_ &emsp; 2019-2021
+
+
+## Education Background
+
+Ph.D. in Optics
+: _Peking University_ &emsp; 2014-2019
+
+B.S. in Applied Physics
+: _Nankai University_ &emsp; 2010-2014
 
 
 ## Publication
