@@ -19,6 +19,9 @@ B.S. in Applied Physics
 
 ## Academic Experience
 
+Postdoctoral Associate
+: _Boston University_ &emsp; 2023-now
+
 Associate Research Fellow
 : _Peking University_ &emsp; 2021-2023
 
