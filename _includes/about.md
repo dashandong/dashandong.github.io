@@ -9,7 +9,7 @@ My research is primarily focused on developing advanced _label-free microscope_ 
 My projects have been related to modeling light propagation/scattering in theory, modulating light field in experiments, and computational imaging of live cells in application.
 Moreover, my work is also related with _ultrafast optics_ and _spectroscopy_.
 
-I am now working on developing mid-infrared photothermal (MIP) microscopy for live cell imaging.
+I am now working on developing _mid-infrared photothermal (MIP)_ microscopy for live cell imaging.
 MIP enables a spectroscopic imaging at molecular vibrational fingerprint region, while detecting the transient thermal change at visable resolution.
 It offers an opportunity for label-free observation of subcelluar dynamics with molecular specificity.
 
