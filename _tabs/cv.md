@@ -5,13 +5,13 @@ order: 1
 title: Dashan Dong
 ---
 
-## Current
+## 1. Current
 
 Postdoctoral Associate
 : _Boston University_ &emsp; 2023-now
 
 
-## Academic Experience
+## 2. Academic Experience
 
 Associate Research Fellow
 : _Peking University_ &emsp; 2021-2023
@@ -20,7 +20,7 @@ Postdoctoral Fellow
 : _Peking University_ &emsp; 2019-2021
 
 
-## Education Background
+## 3. Education Background
 
 Ph.D. in Optics
 : _Peking University_ &emsp; 2014-2019
@@ -29,7 +29,7 @@ B.S. in Applied Physics
 : _Nankai University_ &emsp; 2010-2014
 
 
-## Publication
+## 4. Publication
 
 1. Shuqi Mu<sup>\#</sup>, Yingtong Shi, Yintong Song, Wei Liu, Wanxue Wei, Qihuang Gong, __Dashan Dong\*__, and Kebin Shi. "[Multislice computational model for birefringent scattering](https://doi.org/10.1364/OPTICA.472077)". _Optica_ 10.1, (2023).
 2. Wanxue Wei<sup>\#</sup>, Miao He, Jian Xu, __Dashan Dong\*__. "[Large field-of-view fast optical diffractive tomographic microscopy](https://doi.org/10.3788/CJL221373)". _Chinese Journal of Lasers_ 50.3, (2023).
@@ -43,7 +43,7 @@ B.S. in Applied Physics
 10. Yonggang Lv<sup>\#</sup>, Ziheng Ji, __Dashan Dong__, Kebin Shi\*,  and Qihuang Gong. "[Wide-field vibrational phase contrast imaging based on coherent anti-Stokes Raman scattering holography](https://doi.org/10.1088/0256-307X/32/7/074209)". _Chinese Physics Letters_ 32.7, (2015).
 
 
-## Patents
+## 5. Patents
 
 CN Patent: ZL 202110946936.3
 : _Dual-modality microscopic imaging system and imaging method_
@@ -70,70 +70,72 @@ CN Patent: ZL 202010069141.4
   - Inventors: Kebin Shi, Chendi Shao, Wentao Yu, __Dashan Dong__, Xiangping Li, Yaoyu Cao, Hong Yang, Qihuang Gong.
 
 
-## Conference Presentations
+## 6. Conference Presentations
 
 1. __[Poster]__ _Optical Diffraction Tomography Reveals the 3D Landscape of Living Cells_
-    * Chemical Imaging 2023, Gordon Research Conference _@Boston, USA. Aug 2023._
+    * Chemical Imaging 2023, Gordon Research Conference _@Boston, USA. Aug 2023_
 
-1. __[Invited]__ _New Technologies for Bio-Optical Imaging with Low Phototoxicity_
-    * Advanced Imaging and Information Processing Conference (AIIP 2023) _@Jinggangshan, China. Jul 2023._
+2. __[Invited]__ _New Technologies for Bio-Optical Imaging with Low Phototoxicity_
+    * Advanced Imaging and Information Processing Conference (AIIP 2023) _@Jinggangshan, China. Jul 2023_
 
-1. __[Invited]__ _High-Resolution Imaging Based on Light Field Modulation and Applications_
+3. __[Invited]__ _High-Resolution Imaging Based on Light Field Modulation and Applications_
     * 第三届全国光子技术论坛. _@Guangzhou, China. Apr 2023._
 
-1. __[Invited]__ _Live Cell Landscape Imaging Based on Optical Diffraction Tomographic Microscopy_
+4. __[Invited]__ _Live Cell Landscape Imaging Based on Optical Diffraction Tomographic Microscopy_
     * International Computational Imaging Conference (CSOE-CITA 2022) _@Shanghai, China. Oct 2022_
 
-1. __[Invited]__ _High-Resolution Imaging Based on Light Field Modulation and Applications_
+5. __[Invited]__ _High-Resolution Imaging Based on Light Field Modulation and Applications_
     * 5th Optics Young Scientist Summit (OYSS2022) _@Fuzhou, China. Sep 2022_
 
-1. __[Invited]__ _Live Cell Optical Diffraction Tomographic Imaging Based on 4D Spatiotemporal Continuity_
+6. __[Invited]__ _Live Cell Optical Diffraction Tomographic Imaging Based on 4D Spatiotemporal Continuity_
     * 20th National Symposium on Basic Optics and Optical Physics _@Yanji, China. Sep 2022_
 
-1. __[Invited]__ _Optical Diffraction Tomographic Microscopy Based on 4D Spatiotemporal Continuity_
+7. __[Invited]__ _Optical Diffraction Tomographic Microscopy Based on 4D Spatiotemporal Continuity_
     * The Chinese Optical Society (COS) Academic Conference 2021 _@Shenzhen, China. Sep 2021_
 
-1. __[Invited]__ _Optical Diffraction Tomographic Microscopy and Its Applications_
+8. __[Invited]__ _Optical Diffraction Tomographic Microscopy and Its Applications_
     * 4th Optics Young Scientist Summit (OYSS2020) _@Ningbo, China. Dec 2020_
 
-1. __[Oral]__ _Optical Diffraction Tomographic Microscopy and Its Applications_
+9. __[Oral]__ _Optical Diffraction Tomographic Microscopy and Its Applications_
+    * **Award for Excellent Presentation**
     * 第二届全国光子技术论坛 _@Guangzhou, China. Nov 2020_
 
-1. __[Invited]__ _Live Cell Landscape Imaging Based on Optical Diffraction Tomographic Microscopy_
+10. __[Invited]__ _Live Cell Landscape Imaging Based on Optical Diffraction Tomographic Microscopy_
+    * **Award for Excellent Oral Presentation**
     * Chinese Electron Microscopy Society Academic Conference 2020 _@Chendu, China. Nov 2020_
 
-1. __[Oral]__ _Optical Diffraction Tomographic Microscopy and Its Applications_
+11. __[Oral]__ _Optical Diffraction Tomographic Microscopy and Its Applications_
     * The 12th National Academic Forum on Optical Youth _@Baoding, China. Nov 2020_
 
-1. __[Oral]__ _Super-Resolution Fluorescence Assisted Diffraction Computational Tomography Reveals the Three-Dimensional Landscape of Cellular Organelle Interactome_
+12. __[Oral]__ _Super-Resolution Fluorescence Assisted Diffraction Computational Tomography Reveals the Three-Dimensional Landscape of Cellular Organelle Interactome_
     * SPIE/COS Photonics Asia 2020 _@Webinar. Oct 2020_
 
-1. __[Oral]__ _Tomographic Diffractive Microscopy for Better 3D Imaging_
+13. __[Oral]__ _Tomographic Diffractive Microscopy for Better 3D Imaging_
     * Digital Holography and Three-Dimensional Imaging, Part of Imaging and Applied Optics Congress _@Webinar. Jun 2020_
 
-1. __[Poster]__ _Tomographic Diffractive Microscopy for Better 3D Imaging_
+14. __[Poster]__ _Tomographic Diffractive Microscopy for Better 3D Imaging_
     * International Conference on Photonics and Imaging in Biology and Medicine _@Suzhou, China. Sep 2017_
 
-1. __[Poster]__ _Tomographic Diffractive Microscopy for Better 3D Imaging_
+15. __[Poster]__ _Tomographic Diffractive Microscopy for Better 3D Imaging_
     * SPIE Optics + Photonics 2017 _@San Diego, USA. Aug 2017_
 
-1. __[Oral]__ _Optical Diffraction Tomographic Microscopy_
+16. __[Oral]__ _Optical Diffraction Tomographic Microscopy_
     * Chinese Physical Society (CPS) Fall Meeting _@Beijing, China. Aug 2016_
 
 
-## Grants
+## 7. Grants
 1. __Clinical Medicine Plus X - Young Scholars Project__ [2022] [Co-PI]
     * Exploring the role of lipid droplets in egg asymmetric division based on label-free imaging
     * From _Peking University, the Fundamental Research Funds for the Central Universities_
-1. __Young Scientist Fund (12004013)__ [2021-2023] [PI]
+2. __Young Scientist Fund (12004013)__ [2021-2023] [PI]
     * Reflective optical diffraction tomography for live cell imaging and its application
     * From _National Natural Science Foundation of China_
-1. __No.68 General Fund (2020M680220)__ [PI]
+3. __No.68 General Fund (2020M680220)__ [PI]
     * Super-resolution fluorescence-assisted optical diffraction tomography and its application
     * From _China Postdoctoral Science Foundation_
 
 
-## Service
+## 8. Service
 Program Committee
 : [2022-2023] Topic 9: Biomedicine and Computational Imaging, International Computational Imaging Conference (CSOE-CITA)
 
@@ -149,7 +151,7 @@ SPIE Student Chapter
   [2016] Vice President of Peking Univ. Club
 
 
-## Theses
+## 9. Theses
 
 Doctoral Thesis
 : _Research on Optical Diffraction Tomographic Microscopy_
@@ -161,9 +163,26 @@ Bachelor Thesis
 
   Supervisor: __Prof. Yongnan Li__, _Nankai University_
 
-## Honors and Awards
+## 10. Honors and Awards
+1. **Gan Zizhao Scholarship for Outstanding Postdoctoral Fellows** (2022)
+    _@ Peking University_
+2. **Important Advance for Institute of Modern Optics** (2020)
+    _@ Peking University_
+3. **May 4th Scolarship** (2017)
+    _@ Peking University_
+4. **Individual Honor for Research Excellence** (2017)
+    _@ Peking University_
+5. **He-Zhang Encouragement Scholarship** (2013)
+    _from Foundation for the Development of Science and Technology Museums in China_
+6. **National Encouragement Scholarship** (2012)
+    _@ Nankai University_
+7. **Merit Student** (2012)
+    _@ Nankai University_
+8. **Outstanding Student Scholarship in Fundamental Science** (2011)
+    _@ Nankai University_
 
-## Skills
+
+## 11. Skills
 * MATLAB
   * Computer Vision
   * Imaging/Signal Processing
