@@ -5,13 +5,13 @@ order: 1
 title: Dashan Dong
 ---
 
-## 1. Current
+## Current
 
 Postdoctoral Associate
 : _Boston University_ &emsp; 2023-now
 
 
-## 2. Academic Experience
+## Academic Experience
 
 Associate Research Fellow
 : _Peking University_ &emsp; 2021-2023
@@ -20,7 +20,7 @@ Postdoctoral Fellow
 : _Peking University_ &emsp; 2019-2021
 
 
-## 3. Education Background
+## Education Background
 
 Ph.D. in Optics
 : _Peking University_ &emsp; 2014-2019
@@ -29,7 +29,7 @@ B.S. in Applied Physics
 : _Nankai University_ &emsp; 2010-2014
 
 
-## 4. Publication
+## Publication
 
 1. Shuqi Mu<sup>\#</sup>, Yingtong Shi, Yintong Song, Wei Liu, Wanxue Wei, Qihuang Gong, __Dashan Dong\*__, and Kebin Shi. "[Multislice computational model for birefringent scattering](https://doi.org/10.1364/OPTICA.472077)". _Optica_ 10.1, (2023).
 2. Wanxue Wei<sup>\#</sup>, Miao He, Jian Xu, __Dashan Dong\*__. "[Large field-of-view fast optical diffractive tomographic microscopy](https://doi.org/10.3788/CJL221373)". _Chinese Journal of Lasers_ 50.3, (2023).
@@ -43,7 +43,7 @@ B.S. in Applied Physics
 10. Yonggang Lv<sup>\#</sup>, Ziheng Ji, __Dashan Dong__, Kebin Shi\*,  and Qihuang Gong. "[Wide-field vibrational phase contrast imaging based on coherent anti-Stokes Raman scattering holography](https://doi.org/10.1088/0256-307X/32/7/074209)". _Chinese Physics Letters_ 32.7, (2015).
 
 
-## 5. Patents
+## Patents
 
 CN Patent: ZL 202110946936.3
 : _Dual-modality microscopic imaging system and imaging method_
@@ -70,7 +70,7 @@ CN Patent: ZL 202010069141.4
   - Inventors: Kebin Shi, Chendi Shao, Wentao Yu, __Dashan Dong__, Xiangping Li, Yaoyu Cao, Hong Yang, Qihuang Gong.
 
 
-## 6. Conference Presentations
+## Conference Presentations
 
 1. __[Poster]__ _Optical Diffraction Tomography Reveals the 3D Landscape of Living Cells_
     * Chemical Imaging 2023, Gordon Research Conference _@Boston, USA. Aug 2023_
@@ -123,7 +123,7 @@ CN Patent: ZL 202010069141.4
     * Chinese Physical Society (CPS) Fall Meeting _@Beijing, China. Aug 2016_
 
 
-## 7. Grants
+## Grants
 1. __Clinical Medicine Plus X - Young Scholars Project__ [2022] [Co-PI]
     * Exploring the role of lipid droplets in egg asymmetric division based on label-free imaging
     * From _Peking University, the Fundamental Research Funds for the Central Universities_
@@ -135,7 +135,7 @@ CN Patent: ZL 202010069141.4
     * From _China Postdoctoral Science Foundation_
 
 
-## 8. Service
+## Service
 Program Committee
 : [2022-2023] Topic 9: Biomedicine and Computational Imaging, International Computational Imaging Conference (CSOE-CITA)
 
@@ -151,7 +151,7 @@ SPIE Student Chapter
   [2016] Vice President of Peking Univ. Club
 
 
-## 9. Theses
+## Theses
 
 Doctoral Thesis
 : _Research on Optical Diffraction Tomographic Microscopy_
@@ -163,7 +163,7 @@ Bachelor Thesis
 
   Supervisor: __Prof. Yongnan Li__, _Nankai University_
 
-## 10. Honors and Awards
+## Honors and Awards
 1. **Gan Zizhao Scholarship for Outstanding Postdoctoral Fellows** (2022)
     _@ Peking University_
 2. **Important Advance for Institute of Modern Optics** (2020)
@@ -182,7 +182,7 @@ Bachelor Thesis
     _@ Nankai University_
 
 
-## 11. Skills
+## Skills
 * MATLAB
   * Computer Vision
   * Imaging/Signal Processing
