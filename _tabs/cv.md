@@ -164,22 +164,29 @@ Bachelor Thesis
   Supervisor: __Prof. Yongnan Li__, _Nankai University_
 
 ## Honors and Awards
-1. **Gan Zizhao Scholarship for Outstanding Postdoctoral Fellows** (2022)
-    _@ Peking University_
-2. **Important Advance for Institute of Modern Optics** (2020)
-    _@ Peking University_
-3. **May 4th Scolarship** (2017)
-    _@ Peking University_
-4. **Individual Honor for Research Excellence** (2017)
-    _@ Peking University_
-5. **He-Zhang Encouragement Scholarship** (2013)
-    _from Foundation for the Development of Science and Technology Museums in China_
-6. **National Encouragement Scholarship** (2012)
-    _@ Nankai University_
-7. **Merit Student** (2012)
-    _@ Nankai University_
-8. **Outstanding Student Scholarship in Fundamental Science** (2011)
-    _@ Nankai University_
+[2022] **Gan Zizhao Scholarship for Outstanding Postdoctoral Fellows**
+: _@ Peking University_
+
+[2020] **Important Advance for Institute of Modern Optics**
+: _@ Peking University_
+
+[2017] **May 4th Scolarship**
+: _@ Peking University_
+
+[2017] **Individual Honor for Research Excellence**
+: _@ Peking University_
+
+[2013] **He-Zhang Encouragement Scholarship**
+: _from Foundation for the Development of Science and Technology Museums in China_
+
+[2012] **National Encouragement Scholarship**
+: _@ Nankai University_
+
+[2012] **Merit Student**
+: _@ Nankai University_
+
+[2011] **Outstanding Student Scholarship in Fundamental Science**
+: _@ Nankai University_
 
 
 ## Skills
