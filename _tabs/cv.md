@@ -61,7 +61,7 @@ CN Patent: ZL 202010059510.1
 
 - Inventors: Kebin Shi, Liangyi Chen, __Dashan Dong__, Xiaoshuai Huang, Liuju Li, Heng Mao, Aiming Wang.
 
-CN Patent: ZL202010493775.2
+CN Patent: ZL 202010493775.2
 : _Device and method for generating dynamic cylindrical vector light field based on optical heterodyne interferometry_.
 
 - Inventors: Kebin Shi, Wei Liu, __Dashan Dong__, Hong Yang, Qihuang Gong.
