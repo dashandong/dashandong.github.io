@@ -28,7 +28,7 @@ B.S. in Applied Physics
 
 ## Publication
 
-1. Shuqi Mu\#</sup>, Yingtong Shi, Yintong Song, Wei Liu, Wanxue Wei, Qihuang Gong, __Dashan Dong\*__, and Kebin Shi. "[Multislice computational model for birefringent scattering](https://doi.org/10.1364/OPTICA.472077)". _Optica_ 10.1, (2023).
+1. Shuqi Mu<sup>\#</sup>, Yingtong Shi, Yintong Song, Wei Liu, Wanxue Wei, Qihuang Gong, __Dashan Dong\*__, and Kebin Shi. "[Multislice computational model for birefringent scattering](https://doi.org/10.1364/OPTICA.472077)". _Optica_ 10.1, (2023).
 2. Wanxue Wei<sup>\#</sup>, Miao He, Jian Xu, __Dashan Dong\*__. "[Large field-of-view fast optical diffractive tomographic microscopy](https://doi.org/10.3788/CJL221373)". _Chinese Journal of Lasers_ 50.3, (2023).
 3. Shuqi Mu<sup>\#</sup>, Yu Yang, Juhao Li, __Dashan Dong\*__, Ruijun Lan\*, Kebin Shi. "[Three dimension refractive index characterization for photonic waveguides](https://opg.optica.org/jlt/abstract.cfm?URI=jlt-40-8-2474)". _Journal of Lightwave Technology_ 40.8, (2022).
 4. __Dashan Dong<sup>\#</sup>__, Xiaoshuai Huang<sup>\#</sup>, Liuju Li<sup>\#</sup>, Heng Mao, Yanquan Mo, Guangyi Zhang, Zhe Zhang, Jaiyu Shen, Wei Liu, Zeming Wu, Guanghui Liu, Yanmei Liu, Hong Yang, Qihuang Gong, Kebin Shi\*, and Liangyi Chen\*. "[Super-resolution fluorescence-assisted diffraction computational tomography reveals the three-dimensional landscape of the cellular organelle interactome](https://doi.org/10.1038/s41377-020-0249-4)". _Light: Science & Applications_ 9.11, (2020).
