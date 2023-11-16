@@ -4,11 +4,6 @@ layout: default
 
 {% include lang.html %}
 
-{% assign pinned = site.posts | where: 'pin', 'true' %}
-{% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
-
-{% assign posts = '' | split: '' %}
-
 <!-- Get About Contex -->
 
 <article class="px-1">
@@ -17,6 +12,11 @@ layout: default
 </article>
 
 <!-- Get pinned posts -->
+
+{% assign pinned = site.posts | where: 'pin', 'true' %}
+{% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
+
+{% assign posts = '' | split: '' %}
 
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
 {% assign pinned_num = pinned.size | minus: offset %}
