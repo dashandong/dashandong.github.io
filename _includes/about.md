@@ -5,7 +5,7 @@ at professor [Ji-Xin Cheng's lab](https://sites.bu.edu/cheng-group/),
 in the [Department of Electrical & Computer Engineering](https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/),
 [Boston University](https://www.bu.edu).
 
-My research is primarily focused on developing advanced _label-free microscope_ for biomedical imaging.
+My research is primarily focused on developing advanced _**label-free microscope**_ for biomedical imaging.
 My projects have been related to modeling light propagation/scattering in theory, modulating light field in experiments, and computational imaging of live cells in application.
 Moreover, my work is also related with _ultrafast optics_ and _spectroscopy_.
 
