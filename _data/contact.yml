@@ -6,14 +6,19 @@
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
 
-- type: linkedin
-  icon: "fab fa-linkedin"   # icons powered by <https://fontawesome.com/>
-  url:  "https://www.linkedin.com/in/dong-dashan-231825102"                  # Fill with your Linkedin homepage
+- type: google-scholar
+  icon: "fab fa-graduation-cap"
+  url: "https://scholar.google.com/citations?user=cn5zJPMAAAAJ&hl=en"
   noblank: true
 
 - type: orcid
   icon: "fab fa-orcid"
   url: "https://orcid.org/0000-0002-6135-2849"
+  noblank: true
+
+- type: linkedin
+  icon: "fab fa-linkedin"   # icons powered by <https://fontawesome.com/>
+  url:  "https://www.linkedin.com/in/dong-dashan-231825102"                  # Fill with your Linkedin homepage
   noblank: true
 
 - type: email
