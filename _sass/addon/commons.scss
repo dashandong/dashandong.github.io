@@ -711,7 +711,7 @@ mjx-container {
 /* --- sidebar layout --- */
 
 $sidebar-display: 'sidebar-display';
-$btn-gap: 0.6rem; // for the bottom icons
+$btn-gap: 0.4rem; // for the bottom icons
 $btn-border-width: 3px;
 $btn-mb: 0.5rem;
 
@@ -1550,7 +1550,7 @@ search {
   #sidebar {
     width: $sidebar-width-large;
 
-    $icon-gap: 0.6rem; // for the bottom icons
+    $icon-gap: 0.4rem; // for the bottom icons
 
     .profile-wrapper {
       margin-top: 3.5rem;
