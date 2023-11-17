@@ -1550,7 +1550,7 @@ search {
   #sidebar {
     width: $sidebar-width-large;
 
-    $icon-gap: 1rem; // for the bottom icons
+    $icon-gap: 0.8rem; // for the bottom icons
 
     .profile-wrapper {
       margin-top: 3.5rem;
