@@ -18,7 +18,7 @@
 
 - type: linkedin
   icon: "fab fa-linkedin"   # icons powered by <https://fontawesome.com/>
-  url:  "https://www.linkedin.com/in/dong-dashan-231825102"                  # Fill with your Linkedin homepage
+  url:  "https://www.linkedin.com/in/dashandong"                  # Fill with your Linkedin homepage
   noblank: true
 
 - type: email
