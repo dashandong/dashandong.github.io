@@ -61,35 +61,21 @@ B.S. in Applied Physics
 
 ## Patents
 
-CN Patent: ZL 202110946936.3
-: _Dual-modality microscopic imaging system and imaging method_
+1. [_Dual-modality microscopic imaging system and method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021143707). International Patent __PCT/CN2021/071393__
 
-- Inventors: Kebin Shi, Shuqi Mu, __Dashan Dong__, Hong Yang, Qihuang Gong.
+2. [_Off-axis holographic beam combining device and method based on missing reflector_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN415859443). CN Patent __2023110715739__
 
-CN Patent: ZL 202110817118.3
-: _Reflective axial light sheet fluorescence microscopy imaging device and method based on microprism_
+3. [_Dual-modality microscopic imaging system and imaging method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN344349111). CN Patent __ZL202110946936.3__
 
-- Inventors: Kebin Shi, Yue Wang, __Dashan Dong__, Qihuang Gong, Hong Yang.
+4. [_Reflective axial light sheet fluorescence microscopy imaging device and method based on microprism_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN340516567). CN Patent __ZL202110817118.3__
 
-CN Patent: ZL 202110667298.1
-: _Bessel CARS-based turbulence spectral measurement system and its detection method_.
+5. [_Bessel CARS-based turbulence spectral measurement system and its detection method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN338603522). CN Patent __ZL202110667298.1__
 
-- Inventors: Kebin Shi, Runfeng Li, __Dashan Dong__, Hong Yang, Qihuang Gong.
+6. [_Dual-modality microscopic imaging system and method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN306300007). CN Patent __ZL202010059510.1__
 
-CN Patent: ZL 202010059510.1
-: _Dual-modality microscopic imaging system and imaging method_.
+7. [_Device and method for generating dynamic cylindrical vector light field based on optical heterodyne interferometry_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN307146405). CN Patent __ZL202010493775.2__
 
-- Inventors: Kebin Shi, Liangyi Chen, __Dashan Dong__, Xiaoshuai Huang, Liuju Li, Heng Mao, Aiming Wang.
-
-CN Patent: ZL 202010493775.2
-: _Device and method for generating dynamic cylindrical vector light field based on optical heterodyne interferometry_.
-
-- Inventors: Kebin Shi, Wei Liu, __Dashan Dong__, Hong Yang, Qihuang Gong.
-
-CN Patent: ZL 202010069141.4
-: _GB-STED-based deep super-resolution direct laser writing system and its implementation method_.
-
-- Inventors: Kebin Shi, Chendi Shao, Wentao Yu, __Dashan Dong__, Xiangping Li, Yaoyu Cao, Hong Yang, Qihuang Gong.
+8. [_GB-STED based deep-layer super-resolution laser direct writing system and implementation method thereof_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN297071238). CN Patent __ZL202010069141.4__
 
 ## Conference Presentations
 
