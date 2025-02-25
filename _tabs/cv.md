@@ -160,7 +160,7 @@ SPIE Student Chapter
 ## Theses
 
 Doctoral Thesis
-: _Research on Optical Diffraction Tomographic Microscopy_
+: [_Research on Optical Diffraction Tomographic Microscopy_](/assets/pdf/DashanDong_PHD_Thesis.pdf)
 
   Supervisor: __Prof. Kebin Shi__, _Peking University_
 
