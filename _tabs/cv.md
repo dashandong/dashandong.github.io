@@ -165,7 +165,7 @@ Doctoral Thesis
   Supervisor: __Prof. Kebin Shi__, _Peking University_
 
 Bachelor Thesis
-: _Characteristics of Novel Vector Field_
+: [_Characteristics of Novel Vector Field_](/assets/pdf/DashanDong_Undergraduate_Thesis.pdf)
 
   Supervisor: __Prof. Yongnan Li__, _Nankai University_
 
