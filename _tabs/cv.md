@@ -5,6 +5,8 @@ order: 1
 title: Dashan Dong
 ---
 
+PDF version: [English](/assets/pdf/DashanDong_CV_en.pdf) / [中文](/assets/pdf/DashanDong_CV_zh.pdf)
+
 ## Current
 
 Postdoctoral Associate
