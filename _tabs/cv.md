@@ -82,54 +82,57 @@ B.S. in Applied Physics
 
 ## Conference Presentations
 
-1. __[Poster]__ _Optical Diffraction Tomography Reveals the 3D Landscape of Living Cells_
+1. __[Oral]__ _Super-Resolution Chemical Imaging via Structured Illumination Fluorescence-Detected Mid-Infrared Photothermal Microscopy_
+    - Optica Biophotonics Congress 2025, _@San Diego, USA. Apr 2025_
+
+2. __[Poster]__ _Optical Diffraction Tomography Reveals the 3D Landscape of Living Cells_
     - Chemical Imaging 2023, Gordon Research Conference _@Boston, USA. Aug 2023_
 
-2. __[Invited]__ _New Technologies for Bio-Optical Imaging with Low Phototoxicity_
+3. __[Invited]__ _New Technologies for Bio-Optical Imaging with Low Phototoxicity_
     - Advanced Imaging and Information Processing Conference (AIIP 2023) _@Jinggangshan, China. Jul 2023_
 
-3. __[Invited]__ _High-Resolution Imaging Based on Light Field Modulation and Applications_
+4. __[Invited]__ _High-Resolution Imaging Based on Light Field Modulation and Applications_
     - 第三届全国光子技术论坛. _@Guangzhou, China. Apr 2023._
 
-4. __[Invited]__ _Live Cell Landscape Imaging Based on Optical Diffraction Tomographic Microscopy_
+5. __[Invited]__ _Live Cell Landscape Imaging Based on Optical Diffraction Tomographic Microscopy_
     - International Computational Imaging Conference (CSOE-CITA 2022) _@Shanghai, China. Oct 2022_
 
-5. __[Invited]__ _High-Resolution Imaging Based on Light Field Modulation and Applications_
+6. __[Invited]__ _High-Resolution Imaging Based on Light Field Modulation and Applications_
     - 5th Optics Young Scientist Summit (OYSS2022) _@Fuzhou, China. Sep 2022_
 
-6. __[Invited]__ _Live Cell Optical Diffraction Tomographic Imaging Based on 4D Spatiotemporal Continuity_
+7. __[Invited]__ _Live Cell Optical Diffraction Tomographic Imaging Based on 4D Spatiotemporal Continuity_
     - 20th National Symposium on Basic Optics and Optical Physics _@Yanji, China. Sep 2021_
 
-7. __[Invited]__ _Optical Diffraction Tomographic Microscopy Based on 4D Spatiotemporal Continuity_
+8. __[Invited]__ _Optical Diffraction Tomographic Microscopy Based on 4D Spatiotemporal Continuity_
     - The Chinese Optical Society (COS) Academic Conference 2021 _@Shenzhen, China. Sep 2021_
 
-8. __[Invited]__ _Optical Diffraction Tomographic Microscopy and Its Applications_
+9. __[Invited]__ _Optical Diffraction Tomographic Microscopy and Its Applications_
     - 4th Optics Young Scientist Summit (OYSS2020) _@Ningbo, China. Dec 2020_
 
-9. __[Oral]__ _Optical Diffraction Tomographic Microscopy and Its Applications_
+10. __[Oral]__ _Optical Diffraction Tomographic Microscopy and Its Applications_
     - **Award for Excellent Presentation**
     - 第二届全国光子技术论坛 _@Guangzhou, China. Nov 2020_
 
-10. __[Invited]__ _Live Cell Landscape Imaging Based on Optical Diffraction Tomographic Microscopy_
+11. __[Invited]__ _Live Cell Landscape Imaging Based on Optical Diffraction Tomographic Microscopy_
     - **Award for Excellent Oral Presentation**
     - Chinese Electron Microscopy Society Academic Conference 2020 _@Chendu, China. Nov 2020_
 
-11. __[Oral]__ _Optical Diffraction Tomographic Microscopy and Its Applications_
+12. __[Oral]__ _Optical Diffraction Tomographic Microscopy and Its Applications_
     - The 12th National Academic Forum on Optical Youth _@Baoding, China. Nov 2020_
 
-12. __[Oral]__ _Super-Resolution Fluorescence Assisted Diffraction Computational Tomography Reveals the Three-Dimensional Landscape of Cellular Organelle Interactome_
+13. __[Oral]__ _Super-Resolution Fluorescence Assisted Diffraction Computational Tomography Reveals the Three-Dimensional Landscape of Cellular Organelle Interactome_
     - SPIE/COS Photonics Asia 2020 _@Webinar. Oct 2020_
 
-13. __[Oral]__ _Tomographic Diffractive Microscopy for Better 3D Imaging_
+14. __[Oral]__ _Tomographic Diffractive Microscopy for Better 3D Imaging_
     - Digital Holography and Three-Dimensional Imaging, Part of Imaging and Applied Optics Congress _@Webinar. Jun 2020_
 
-14. __[Poster]__ _Tomographic Diffractive Microscopy for Better 3D Imaging_
+15. __[Poster]__ _Tomographic Diffractive Microscopy for Better 3D Imaging_
     - International Conference on Photonics and Imaging in Biology and Medicine _@Suzhou, China. Sep 2017_
 
-15. __[Poster]__ _Tomographic Diffractive Microscopy for Better 3D Imaging_
+16. __[Poster]__ _Tomographic Diffractive Microscopy for Better 3D Imaging_
     - SPIE Optics + Photonics 2017 _@San Diego, USA. Aug 2017_
 
-16. __[Oral]__ _Optical Diffraction Tomographic Microscopy_
+17. __[Oral]__ _Optical Diffraction Tomographic Microscopy_
     - Chinese Physical Society (CPS) Fall Meeting _@Beijing, China. Aug 2016_
 
 ## Grants
