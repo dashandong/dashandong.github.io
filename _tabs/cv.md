@@ -31,14 +31,16 @@ B.S. in Applied Physics
 ## Publication
 
 ### Highlighted
-1. Shuqi Mu<sup>\#</sup>, Yingtong Shi, Yintong Song, Wei Liu, Wanxue Wei, Qihuang Gong, __Dashan Dong\*__, and Kebin Shi. "[Multislice computational model for birefringent scattering](https://doi.org/10.1364/OPTICA.472077)". _Optica_ 10.1, (2023).
-2. Wanxue Wei<sup>\#</sup>, Miao He, Jian Xu, __Dashan Dong\*__. "[Large field-of-view fast optical diffractive tomographic microscopy](https://doi.org/10.3788/CJL221373)". _Chinese Journal of Lasers_ 50.3, (2023).
-3. Shuqi Mu<sup>\#</sup>, Yu Yang, Juhao Li, __Dashan Dong\*__, Ruijun Lan\*, Kebin Shi. "[Three dimension refractive index characterization for photonic waveguides](https://opg.optica.org/jlt/abstract.cfm?URI=jlt-40-8-2474)". _Journal of Lightwave Technology_ 40.8, (2022).
-4. __Dashan Dong<sup>\#</sup>__, Xiaoshuai Huang<sup>\#</sup>, Liuju Li<sup>\#</sup>, Heng Mao, Yanquan Mo, Guangyi Zhang, Zhe Zhang, Jaiyu Shen, Wei Liu, Zeming Wu, Guanghui Liu, Yanmei Liu, Hong Yang, Qihuang Gong, Kebin Shi\*, and Liangyi Chen\*. "[Super-resolution fluorescence-assisted diffraction computational tomography reveals the three-dimensional landscape of the cellular organelle interactome](https://doi.org/10.1038/s41377-020-0249-4)". _Light: Science & Applications_ 9.11, (2020).
-5. __Dashan Dong<sup>\#</sup>__, Kebin Shi\*. "[Solving the missing cone problem by deep learning](https://doi.org/10.1117/1.AP.2.2.020501)". _Advanced Photonics_ 2.2, (2020).
+1. Lige Liu<sup>\#</sup>, __Dashan Dong<sup>\#</sup>__, Zhiwei Long, Wanxue Wei, Chang Sun, Wei Liu, Xiaoshuai Huang, Liangyi Chen, Haizheng Zhong\*, and Kebin Shi\*. "[Single particle fluorescence imaging of perovskite nanocrystal crystallization for illustrating coupled nucleation-and-growth](https://doi.org/10.1038/s41467-025-60826-x)". _Nature Communications_ 16.5664, (2025)
+2. Shuqi Mu<sup>\#</sup>, Yingtong Shi, Yintong Song, Wei Liu, Wanxue Wei, Qihuang Gong, __Dashan Dong\*__, and Kebin Shi. "[Multislice computational model for birefringent scattering](https://doi.org/10.1364/OPTICA.472077)". _Optica_ 10.1, (2023).
+3. Wanxue Wei<sup>\#</sup>, Miao He, Jian Xu, __Dashan Dong\*__. "[Large field-of-view fast optical diffractive tomographic microscopy](https://doi.org/10.3788/CJL221373)". _Chinese Journal of Lasers_ 50.3, (2023).
+4. Shuqi Mu<sup>\#</sup>, Yu Yang, Juhao Li, __Dashan Dong\*__, Ruijun Lan\*, Kebin Shi. "[Three dimension refractive index characterization for photonic waveguides](https://opg.optica.org/jlt/abstract.cfm?URI=jlt-40-8-2474)". _Journal of Lightwave Technology_ 40.8, (2022).
+5. __Dashan Dong<sup>\#</sup>__, Xiaoshuai Huang<sup>\#</sup>, Liuju Li<sup>\#</sup>, Heng Mao, Yanquan Mo, Guangyi Zhang, Zhe Zhang, Jaiyu Shen, Wei Liu, Zeming Wu, Guanghui Liu, Yanmei Liu, Hong Yang, Qihuang Gong, Kebin Shi\*, and Liangyi Chen\*. "[Super-resolution fluorescence-assisted diffraction computational tomography reveals the three-dimensional landscape of the cellular organelle interactome](https://doi.org/10.1038/s41377-020-0249-4)". _Light: Science & Applications_ 9.11, (2020).
+6. __Dashan Dong<sup>\#</sup>__, Kebin Shi\*. "[Solving the missing cone problem by deep learning](https://doi.org/10.1117/1.AP.2.2.020501)". _Advanced Photonics_ 2.2, (2020).
 
 ### Others
-1. Qian Chen<sup>\#</sup>, Wen Gou<sup>\#</sup>, Wenqing Lu<sup>\#</sup>, Jie Li, Yuhong Wei, Haoyu Li, Chengyu Wang, Wei You, Zhengqian Li, __Dashan Dong__, Xiuli Bi, Bin Xiao\*, Liangyi Chen\*, Kebin Shi\*, Junchao Fan\*, Xiaoshuai Huang\*. "[Fast, three-dimensional, live-cell super-resolution imaging with multiplane structured illumination microscopy](https://doi.org/10.1038/s41566-025-01638-9)". _Nature Photonics_,(2025).
+1. Jia Danchen<sup>\#</sup>, Huang Steven<sup>\#</sup>, Tulegenov Dias, __Dong Dashan__, Shvets Gennady\*, Cheng Ji-Xin\*. "[Metasurface-enhanced infrared photothermal microscopy towards ultrasensitive chemical analysis](https://m.researching.cn/EN/HPArticle/AP-25-114704?type=en)". Advanced Photonics, 7.5, (2025).
+1. Qian Chen<sup>\#</sup>, Wen Gou<sup>\#</sup>, Wenqing Lu<sup>\#</sup>, Jie Li, Yuhong Wei, Haoyu Li, Chengyu Wang, Wei You, Zhengqian Li, __Dashan Dong__, Xiuli Bi, Bin Xiao\*, Liangyi Chen\*, Kebin Shi\*, Junchao Fan\*, Xiaoshuai Huang\*. "[Fast, three-dimensional, live-cell super-resolution imaging with multiplane structured illumination microscopy](https://doi.org/10.1038/s41566-025-01638-9)". _Nature Photonics_, 19, (2025).
 2. Jiaze Yin<sup>\#</sup>, Christian Pfluegl, Chu C. Teng, Rylie Bolarinho, Guo Chen, Xinrui Gong, __Dashan Dong__, Daryoosh Vakhshoori, Ji-Xin Cheng\*. "[Mid-infrared Energy Deposition Spectroscopy](https://doi.org/10.1103/PhysRevLett.134.093804)". _Physical Review Letters_ 134.9, (2025).
 3. Yue Wang<sup>\#</sup>, Jingrui Gong, Ning Xu, Shaohui Yan, __Dashan Dong__, Kebin Shi\*. "[Large Field of View and Isotropic Light Sheet Microscopy with Aberration-Free Tunable Foci](https://doi.org/10.1002/lpor.202400214)". _Laser & Photonics Reviews_ 19.3, (2025).
 4. Wenkai Yang<sup>\#</sup>, Zijian Wang, Jian Xu, __Dashan Dong__, Guiyuan Cao, Han Lin, Baohua Jia, Lige Liu\*, and Kebin Shi\*. "[Ultracompact computational spectroscopy with a detour-phased planar lens](https://doi.org/10.37188/lam.2024.044)". _Light: Advanced Manufacturing_ 5.44, (2024).
@@ -149,6 +151,9 @@ B.S. in Applied Physics
 
 ## Service
 
+Reviewer
+: Photonics Research, Optics Letters, Optics Express, Advanced Science, APL Photonics, Chinese Journal of Lasers, Acta Optica Sinica
+
 Program Committee
 : [2022-2023] Topic 9: Biomedicine and Computational Imaging, International Computational Imaging Conference (CSOE-CITA)
 
@@ -202,25 +207,19 @@ Bachelor Thesis
 : _@ Nankai University_
 
 ## Skills
-
-- MATLAB
-  - Computer Vision
-  - Imaging/Signal Processing
-  - Data Acquisition
-  - Instrument Control
-- C/C++
-  - Parallel Computing
-  - Instrument Control
-  - Low-level File I/O
-  - GUI Design (Qt)
-- Linux
-  - High Performance Computing on Linux Clusters
-  - GCC/Clang Compiler
+- Optics
+  - __Expert__ in _Computational Imaging, Nonlinear Optics, Holography, Microscopy, Spectroscopy_
+  - __Skilled__ in _Designing and Building Optical Systems_
+  - __Proficient__ in _Live Cell Imaging, Label-free / Fluorescence Imaging, Super-resolution Imaging_
+- Programming
+  - __Languages__: MATLAB, C/C++, Labview, Python, Bash, LaTeX
+  - __Proficient__ in _Instrument Control_, with expertise in _Imaging/Signal Acquisition_ and intuitive _GUI Design_
+  - __Skilled__ in _Image/Signal Processing_ with experience in _Computer Vision, Data Visualization_
+  - __Experienced__ in _High Performance Computing_ with _Parallel Programming_ on _GPU and Linux-Clusters_
 - Softwares
-  - Fiji/ImageJ
-  - Mathematica
-  - OriginPro
-  - Adobe AI/PS
-- Language
-  - Chinese
-  - English
+  - Fiji/ImageJ,
+  - Mathematica,
+  - OriginPro,
+  - Adobe AI/PS,
+  - Zemax,
+  - COMSOL
