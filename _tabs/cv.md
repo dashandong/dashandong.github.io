@@ -39,6 +39,7 @@ B.S. in Applied Physics
 6. __Dashan Dong<sup>\#</sup>__, Kebin Shi\*. "[Solving the missing cone problem by deep learning](https://doi.org/10.1117/1.AP.2.2.020501)". _Advanced Photonics_ 2.2, (2020).
 
 ### Others
+1. George Abu-Aqil<sup>\#</sup>, __Dashan Dong<sup>\#</sup>__, Jiaze Yin<sup>\#</sup>, Jianpeng Ao, Hongjian He, Guangrui Ding, Qing Xia, Ji-Xin Cheng\*. "[Bond-Selective Imaging via Vibrational Relaxation Encoded Fluorescence](https://doi.org/10.1021/acs.jpclett.5c03266)". _The Journal of Physical Chemistry Letters_ 16, (2025).
 1. Jia Danchen<sup>\#</sup>, Huang Steven<sup>\#</sup>, Tulegenov Dias, __Dong Dashan__, Shvets Gennady\*, Cheng Ji-Xin\*. "[Metasurface-enhanced infrared photothermal microscopy towards ultrasensitive chemical analysis](https://doi.org/10.1117/1.AP.7.5.056001)". Advanced Photonics, 7.5, (2025).
 1. Qian Chen<sup>\#</sup>, Wen Gou<sup>\#</sup>, Wenqing Lu<sup>\#</sup>, Jie Li, Yuhong Wei, Haoyu Li, Chengyu Wang, Wei You, Zhengqian Li, __Dashan Dong__, Xiuli Bi, Bin Xiao\*, Liangyi Chen\*, Kebin Shi\*, Junchao Fan\*, Xiaoshuai Huang\*. "[Fast, three-dimensional, live-cell super-resolution imaging with multiplane structured illumination microscopy](https://doi.org/10.1038/s41566-025-01638-9)". _Nature Photonics_, 19, (2025).
 2. Jiaze Yin<sup>\#</sup>, Christian Pfluegl, Chu C. Teng, Rylie Bolarinho, Guo Chen, Xinrui Gong, __Dashan Dong__, Daryoosh Vakhshoori, Ji-Xin Cheng\*. "[Mid-infrared Energy Deposition Spectroscopy](https://doi.org/10.1103/PhysRevLett.134.093804)". _Physical Review Letters_ 134.9, (2025).
@@ -59,6 +60,7 @@ B.S. in Applied Physics
 17. Bin Tsai<sup>\#</sup>, Wei Liu, __Dashan Dong__, Kebin Shi, Liangyi Chen, Ning Gao\*. "[Phase separation of Mer2 organizes the meiotic loop-axis structure of chromatin during meiosis I](https://doi.org/10.1101/2020.12.15.422856)". _bioRXiv_ (2020).
 
 ### Conference Abstracts
+1. __Dashan Dong__ and Ji-Xin Cheng. "[Super-resolution Chemical Imaging via Structured Illumination Fluorescence-Detected Mid-Infrared Photothermal Microscopy](https://doi.org/10.1364/NTM.2025.NTu3C.3)". _Novel Techniques in Microscopy_, Optica Biophotonics Congress, NTu3C.3 (2025).
 1. __Dashan Dong__, Xiaoshuai Huang, Liuju Li, Kebin Shi, and Liangyi Chen. "[Super-Resolution Fluorescence Assisted Diffraction Computational Tomography Reveals the Three-Dimensional Landscape of Cellular Organelle Interactome](https://doi.org/10.1117/12.2573177)". _Advanced Optical Imaging Technologies III_, SPIE/COS Photonics Asia, 115490G (2020).
 2. __Dashan Dong__, Xiaoshuai Huang, Liuju Li, Kebin Shi, and Liangyi Chen. "[Super-Resolution Fluorescence Assisted Diffraction Computational Tomography Reveals the Three-Dimensional Landscape of Cellular Organelle Interactome](https://doi.org/10.1364/DH.2020.HF1G.6)}". _Digital Holography and Three-Dimensional Imaging 2020_, Imaging and Applied Optics Congress, Optica Publishing Group HF1G.6 (2020).
 3. __Dashan Dong__, Yanhui Cai, Ziheng ji, Hong Yang, Qihuang Gong, and Kebin Shi. "[Tomographic Diffractive Microscopy for Better 3D Imaging](https://doi.org/10.1364/PIBM.2017.W3A.43)". _14th International Conference on Photonics and Imaging in Biology and Medicine_, Optica Publishing Group W3A.43 (2017).
@@ -208,12 +210,12 @@ Bachelor Thesis
 
 ## Skills
 - Optics
-  - __Expert__ in _Computational Imaging, Nonlinear Optics, Holography, Microscopy, Spectroscopy_
-  - __Skilled__ in _Designing and Building Optical Systems_
-  - __Proficient__ in _Live Cell Imaging, Label-free / Fluorescence Imaging, Super-resolution Imaging_
+  - __Expert__ in _Computational Imaging, Nonlinear Optics, Holography/Digital Holography, Microscopy, Spectroscopy_
+  - __Skilled__ in _Designing, Building, Aligning, and Optimizing Complex Optical Imaging Systems_
+  - __Proficient__ in _Live-Cell Imaging, Label-free and Fluorescence Imaging, Multimodal and Super-resolution Microscopy_
 - Programming
   - __Languages__: MATLAB, C/C++, Labview, Python, Bash, LaTeX
-  - __Proficient__ in _Instrument Control_, with expertise in _Imaging/Signal Acquisition_ and intuitive _GUI Design_
+  - __Proficient__ in _Instrument Control_, with expertise in _Imaging/Signal Acquisition_ and _Embedded System_
   - __Skilled__ in _Image/Signal Processing_ with experience in _Computer Vision, Data Visualization_
   - __Experienced__ in _High Performance Computing_ with _Parallel Programming_ on _GPU and Linux-Clusters_
 - Softwares
