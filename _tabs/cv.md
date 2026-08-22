@@ -31,7 +31,7 @@ B.S. in Applied Physics
 ## Publication
 
 ### Highlighted
-1. __Dashan Dong<sup>\#</sup>__, Danchen Jia, Xinyan Teng, Jianpeng Ao, George Abu-Aqil, Biwen Gao, Meng Zhang, Qing Xia, Ji-Xin Cheng\*. "[Chem-SIM: Super-resolution Chemical Imaging via Photothermal Modulation of Structured-Illumination Fluorescence](https://arxiv.org/pdf/2602.16079)". _arXiv_, (2026).
+1. __Dashan Dong<sup>\#</sup>__, Danchen Jia, Xinyan Teng, Jianpeng Ao, George Abu-Aqil, Biwen Gao, Meng Zhang, Qing Xia, Ji-Xin Cheng\*. "[Chem-SIM: SIM-resolved chemical imaging via wide-field mid-infrared photothermal modulation of fluorescence](https://doi.org/10.1038/s41467-026-76934-1)". _Nature Communications_, (2026).
 1. Lige Liu<sup>\#</sup>, __Dashan Dong<sup>\#</sup>__, Zhiwei Long, Wanxue Wei, Chang Sun, Wei Liu, Xiaoshuai Huang, Liangyi Chen, Haizheng Zhong\*, and Kebin Shi\*. "[Single particle fluorescence imaging of perovskite nanocrystal crystallization for illustrating coupled nucleation-and-growth](https://doi.org/10.1038/s41467-025-60826-x)". _Nature Communications_ 16.5664, (2025)
 2. Shuqi Mu<sup>\#</sup>, Yingtong Shi, Yintong Song, Wei Liu, Wanxue Wei, Qihuang Gong, __Dashan Dong\*__, and Kebin Shi. "[Multislice computational model for birefringent scattering](https://doi.org/10.1364/OPTICA.472077)". _Optica_ 10.1, (2023).
 4. Shuqi Mu<sup>\#</sup>, Yu Yang, Juhao Li, __Dashan Dong\*__, Ruijun Lan\*, Kebin Shi. "[Three dimension refractive index characterization for photonic waveguides](https://opg.optica.org/jlt/abstract.cfm?URI=jlt-40-8-2474)". _Journal of Lightwave Technology_ 40.8, (2022).
