@@ -26,6 +26,8 @@ package-lock.json
 _sass/vendors
 assets/js/dist
 
-# Mac DS_Store files
+# Hidden system files
+*~
 .DS_Store
+Thumbs.db
 **/.DS_Store
