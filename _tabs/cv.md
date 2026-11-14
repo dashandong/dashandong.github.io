@@ -2,7 +2,7 @@
 layout: post
 icon: fas fa-book
 order: 1
-title: Dashan Dong
+title: CV
 ---
 
 PDF version: [English](/assets/pdf/DashanDong_CV_en.pdf) / [中文](/assets/pdf/DashanDong_CV_zh.pdf)
@@ -81,7 +81,7 @@ B.S. in Applied Physics
 4. Kebin Shi, __Dashan Dong__, Yanhui Cai, Wei Liu, Chendi Shao. "[High resolution nonlinear imaging based on optical field engineering](https://doi.org/10.1117/12.2275107)". _Ultrafast Nonlinear Imaging and Spectroscopy V_, Proc. SPIE 1038000Z (2017).
 
 ## Patents
-1. [_System and Method for Super-Resolution Chemical Imaging Via Photothermal_](https://patentscope.wipo.int). International Patent __PCT/US26/24003__
+1. [_System and method for super-resolution chemical imaging via photothermal modulation of structured-illumination fluorescence_](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2026222292). International Patent __PCT/US26/24003__
 
 1. [_Dual-modality microscopic imaging system and method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021143707). International Patent __PCT/CN2021/071393__
 
