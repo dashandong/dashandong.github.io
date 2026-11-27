@@ -39,8 +39,8 @@ B.S. in Applied Physics
 5. __Dashan Dong<sup>\#</sup>__, Xiaoshuai Huang<sup>\#</sup>, Liuju Li<sup>\#</sup>, Heng Mao, Yanquan Mo, Guangyi Zhang, Zhe Zhang, Jaiyu Shen, Wei Liu, Zeming Wu, Guanghui Liu, Yanmei Liu, Hong Yang, Qihuang Gong, Kebin Shi\*, and Liangyi Chen\*. "[Super-resolution fluorescence-assisted diffraction computational tomography reveals the three-dimensional landscape of the cellular organelle interactome](https://doi.org/10.1038/s41377-020-0249-4)". _Light: Science & Applications_ 9.11, (2020).
 
 ### Peer-Reviewed Publications
+7. Ziyu Li<sup>\#</sup>, Yue Wang<sup>\#</sup>\*, Chendi Shao, Jian Xu, __Dashan Dong__, Shulei Zhou, Xiaoshuai Huang, Hong Yang, Yujie Sun, and Kebin Shi\*. "[Depth-Robust Super-Resolution Nanofabrication for 3D Mesoscopic Photonic Structures](https://doi.org/10.1038/s41565-026-02335-6)". _Nature Nanotechnology_, (2026).
 7. Liuju Li<sup>\#</sup>, Miao He<sup>\#</sup>, Bulidierxin Tuerhanbayi , __Dashan Dong__, Wenqing Lu, Yuqing Zhang, Wang Yao, Liang Yang, Yujun Liu, Linglong Li, Ziying Luo, Shuai Yao, Xinyue Chen, Ming Shi, Xuefei Zhang, Tongsheng Chen, Yangming Wang, Tingting Li, Liying Yan, Hyunsoo Je, Jie Qiao, Kebin Shi, Xiaoshuai Huang\*, and Liangyi Chen\*. "[Label-free super-resolution imaging reveals multicompartment glycogen condensates as metabolic regulators of pluripotency in embryonic stem cells](https://doi.org)". _Nature Communications_, In press (2026).
-1. Ziyu Li<sup>\#</sup>, Yue Wang<sup>\#</sup>\*, Chendi Shao, Jian Xu, __Dashan Dong__, Shulei Zhou, Xiaoshuai Huang, Hong Yang, Yujie Sun, and Kebin Shi\*. "[Depth-Robust Super-Resolution Nanofabrication for 3D Mesoscopic Photonic Structures](https://doi.org/10.1038/s41565-026-02335-6)". _Nature Nanotechnology_, (2026).
 1. Jianpeng Ao<sup>\#</sup>, Jiaze Yin<sup>\#</sup>, Haonan Lin, Guangrui Ding, Youchen Guan, Marzia Savini, Bethany Weinberg, __Dashan Dong__, Qing Xia, Zhongyue Guo, Bowen Liu, Biwen Gao, Ji-Xin Cheng\*, and Meng C Wang\*. "[FILM: mapping organellar metabolism by mid-infrared photothermal-modulated fluorescence](https://doi.org/10.1038/s41592-026-03090-1)". _Nature Methods_, 23.1196-1206 (2026).
 1. Danchen Jia<sup>\#</sup>, __Dashan Dong<sup>\#</sup>__, Tongyu Li, Haonan Zong, Jiabei Zhu, Xinyan Teng, Lei Tian\*, Ji-Xin Cheng\*. "[Mid-Infrared Photothermal Relaxation Intensity Diffraction Tomography for Video-rate Volumetric Chemical Imaging](https://doi.org/10.1364/OE.588218)". _Optics Express_, 34.9 (2026).
 1. Tongyu Li<sup>\#</sup>, Yi Shen, __Dashan Dong__, Danchen Jia, Jianpeng Ao, Ji-Xin Cheng, Lei Tian\*. "[Transfer-function approach to substrate-enhanced diffraction tomography](https://doi.org/10.1364/OPTICA.580672)". _Optica_ 13.4, (2026).
@@ -81,23 +81,23 @@ B.S. in Applied Physics
 4. Kebin Shi, __Dashan Dong__, Yanhui Cai, Wei Liu, Chendi Shao. "[High resolution nonlinear imaging based on optical field engineering](https://doi.org/10.1117/12.2275107)". _Ultrafast Nonlinear Imaging and Spectroscopy V_, Proc. SPIE 1038000Z (2017).
 
 ## Patents
-1. [_System and method for super-resolution chemical imaging via photothermal modulation of structured-illumination fluorescence_](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2026222292). International Patent __PCT/US26/24003__
+1. [_System and method for super-resolution chemical imaging via photothermal modulation of structured-illumination fluorescence_](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2026222292). __PCT/US26/24003__
 
-1. [_Dual-modality microscopic imaging system and method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021143707). International Patent __PCT/CN2021/071393__
+1. [_Large-Field-of-View, High-Resolution Near-Field Ptychographic Microscopy System and Imaging Method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN467562665). __ZL202510147848__
 
-2. [_Off-axis holographic beam combining device and method based on missing reflector_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN415859443). CN Patent __2023110715739__
+2. [_Off-axis holographic beam combining device and method based on missing reflector_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN415859443). __ZL2023110715739__
 
-3. [_Dual-modality microscopic imaging system and imaging method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN344349111). CN Patent __ZL202110946936.3__
+3. [_Dual-modality microscopic imaging system and imaging method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN344349111). __ZL202110946936.3__
 
-4. [_Reflective axial light sheet fluorescence microscopy imaging device and method based on microprism_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN340516567). CN Patent __ZL202110817118.3__
+4. [_Reflective axial light sheet fluorescence microscopy imaging device and method based on microprism_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN340516567). __ZL202110817118.3__
 
-5. [_Bessel CARS-based turbulence spectral measurement system and its detection method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN338603522). CN Patent __ZL202110667298.1__
+5. [_Bessel CARS-based turbulence spectral measurement system and its detection method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN338603522). __ZL202110667298.1__
 
-6. [_Dual-modality microscopic imaging system and method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN306300007). CN Patent __ZL202010059510.1__
+6. [_Dual-modality microscopic imaging system and method_](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021143707). __PCT/CN2021/071393__, __ZL202010059510.1__
 
-7. [_Device and method for generating dynamic cylindrical vector light field based on optical heterodyne interferometry_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN307146405). CN Patent __ZL202010493775.2__
+7. [_Device and method for generating dynamic cylindrical vector light field based on optical heterodyne interferometry_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN307146405). __ZL202010493775.2__
 
-8. [_GB-STED based deep-layer super-resolution laser direct writing system and implementation method thereof_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN297071238). CN Patent __ZL202010069141.4__
+8. [_GB-STED based deep-layer super-resolution laser direct writing system and implementation method thereof_](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN297071238). __ZL202010069141.4__
 
 ## Conference Presentations
 
